@@ -44394,7 +44394,7 @@ case 2:return A.P(o.at(-1),r)}})
 return A.R($async$qv,r)}}
 A.a6w.prototype={}
 A.ru.prototype={
-gmD(){return"suraj.jpeg"},
+gmD(){return"assets/suraj.jpeg"},
 a6J(a){var s,r={},q=a.a
 if(q==null)q=$.r4()
 r.a=r.b=null
@@ -65684,7 +65684,7 @@ N(a){var s=null,r=A.cA("Education",A.ct().$2$fontSize$fontWeight(24,B.an),s),q=A
 return A.it(A.c([r,B.bU,A.Qe(new A.DL(B.C2,A.cA("B.Tech - Computer Science Engineering",A.ct().$1$fontWeight(B.c7),s),A.cA("Kshathriya College of Engineering and Technology, Nizamabad\n2017 - 2021",A.ct().$0(),s),s),s,s,new A.c6(q,B.o))],t.E),B.am,B.aa)}}
 A.CJ.prototype={
 N(a){var s=A.ag(a).ok.r
-return A.it(A.c([A.cA("Work Experiences",A.ct().$3$color$fontSize$fontWeight(s==null?null:s.b,24,B.an),null),B.bU,A.aqZ(new A.Su(),2,B.GF,new A.Sv(),!0),B.iT],t.E),B.am,B.aa)}}
+return A.it(A.c([A.cA("Work Experience",A.ct().$3$color$fontSize$fontWeight(s==null?null:s.b,24,B.an),null),B.bU,A.aqZ(new A.Su(),2,B.GF,new A.Sv(),!0),B.iT],t.E),B.am,B.aa)}}
 A.Sv.prototype={
 $2(a,b){return B.iS},
 $S:440}
